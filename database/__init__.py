@@ -1,0 +1,1 @@
+"""Package database — Layer 1 UAS: persistensi data dengan SQLAlchemy."""
