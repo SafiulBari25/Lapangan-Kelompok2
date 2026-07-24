@@ -1,4 +1,4 @@
-""" Modul berisi hierarki class lapangan olahraga.
+"""git Modul berisi hierarki class lapangan olahraga.
 
 Class:
     Lapangan        — Abstract base class untuk semua jenis lapangan.
